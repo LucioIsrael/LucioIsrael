@@ -2,6 +2,8 @@
 
 - Olá, bem vindo ao meu Github. 👋
 - Me chamo Lúcio e trabalho com programação mobile
+- Minha principal ferramenta de trabalho é o Kotlin !
+- Tenho planos de me aprofundar no Swift e no Dart
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucioIsrael&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
